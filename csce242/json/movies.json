@@ -7,7 +7,6 @@
     "genres":["Crime","Fiction","Drama"],
     "description":"The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son. -- Carl Schultz",
     "img":"images/the-godfather.jpg"
-
   },
   {
     "title":"The Shawshank Redemption",
@@ -16,6 +15,6 @@
     "year":"1994",
     "genres":["Drama","Mystery","Crime","Fiction"],
     "description":"Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency. --IMDB",
-    "img":"the-shawshank-redemption.jpg"
+    "img":"images/the-shawshank-redemption.jpg"
   }
 ]
