@@ -1,3 +1,18 @@
-{
-    "title":"movie1"
-}
+[
+  {
+    "title":"The Godfather",
+    "director": "Francis Ford Coppola",
+    "actors": ["Al Pacino","Marlon Brando","Robert Duvall"],
+    "year":"1972",
+    "genres":["Crime","Fiction","Drama"],
+    "description":"The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son. -- Carl Schultz"
+  },
+  {
+    "title":"The Shawshank Redemption",
+    "director": "Frank Darabont",
+    "actors": ["Morgan Freeman","Bob Gunton","Tim Robbins"],
+    "year":"1994",
+    "genres":["Drama","Mystery","Crime","Fiction"],
+    "description":"Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency. --IMDB"
+  }
+]
